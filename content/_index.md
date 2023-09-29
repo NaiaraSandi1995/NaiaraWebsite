@@ -2,19 +2,17 @@
 {}
 ---
 
-I'm **Naiara Alcantara**, a Software Engineer.
+Meu nome é **Naiara Alcantara**, sou doutora em Ciência Política pela Universidade Federal do Paraná.
+Estou realizando meu estágio pós doutoral em Ciência Política pela Universidade Federal do Pará.
 
-I love all things computer science and maths.
+Saiba mais sobre meus [projetos].
 
-Have a look at some of my working [projects].
+Veja meu [resumo]. 
 
-For more check out my academic & professional [resume].
-
-Contact me at [@username] or by [email].
-
+Me contate pelo meu pelo meu [email].
 
 
-[projects]: /projects
-[resume]: https://demo.nurlan.co/hugo-vitae/
-[@username]: https://twitter.com/username
-[email]: mailto:email@example.com
+
+[projetos]: /projetos
+[resumo]: https://demo.nurlan.co/hugo-vitae/
+[email]: nayara_sandy@hotmail.com
