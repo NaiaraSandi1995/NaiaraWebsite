@@ -2,7 +2,7 @@
 {}
 ---
 
-I'm **Chris Turner**, a Software Engineer.
+I'm **Naiara Alcantara**, a Software Engineer.
 
 I love all things computer science and maths.
 

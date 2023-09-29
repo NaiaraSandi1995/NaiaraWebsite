@@ -1,20 +1,21 @@
 baseURL: https://example.com/
+publishDIR: docs
 languageCode: en-US
-title: Chris Turner
+title: Naiara Alcantara
 disqusShortname: ''
 googleAnalytics: ''
 theme: hugo-sustain
 permalinks:
   post: /:year/:month/:day/:slug
 params:
-  author: Chris Turner
+  author: Naiara Sandi de A. Alcantara
   avatar: img/profile.png
   custom_css: []
   custom_js: []
-  description: Describe your website
+  description: Describe
   social:
     Email: email@example.com
-    Github: username
+    Github: userll
     LinkedIn: username
     Medium: username
     RSS: /blog/index.xml
@@ -31,7 +32,7 @@ menu:
       name: projects
       url: /projects/
       weight: 200
-    - identifier: resume
-      name: resume
+    - identifier: resumo
+      name: resumo
       url: /resume/
       weight: 300
