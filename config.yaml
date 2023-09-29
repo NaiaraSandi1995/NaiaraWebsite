@@ -31,5 +31,5 @@ menu:
       weight: 200
     - identifier: resumo
       name: resumo
-      url: /resume/
+      url: /resumo/
       weight: 300
