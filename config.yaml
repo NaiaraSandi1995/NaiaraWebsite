@@ -19,6 +19,7 @@ params:
     LinkedIn: https://www.linkedin.com/in/naiarasandi/
     Lattes: http://lattes.cnpq.br/3451135311500060
     Twitter: https://twitter.com/NaiaraSandi
+    Telefone: (+55) 91 98613-3335
 menu:
   main:
     - identifier: blog
@@ -29,7 +30,7 @@ menu:
       name: projetos
       url: /projetos/
       weight: 200
-    - identifier: resumo
-      name: resumo
-      url: /resumo/
-      weight: 300
+    - identifier: Currículo
+      name: Currículo
+      url: http://lattes.cnpq.br/3451135311500060
+      weight: 300 

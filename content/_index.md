@@ -7,12 +7,12 @@ Estou realizando meu estágio pós doutoral em Ciência Política pela Universid
 
 Saiba mais sobre meus [projetos].
 
-Veja meu [resumo]. 
+Veja meu [Currículo Lattes]. 
 
-Me contate pelo meu pelo meu [email].
+Me contate pelas minhas redes sociais:
 
 
 
-[projetos]: /projetos
-[resumo]: https://demo.nurlan.co/hugo-vitae/
+[projetos]: projetos/
+[Currículo Lattes]: http://lattes.cnpq.br/3451135311500060
 [email]: nayara_sandy@hotmail.com
