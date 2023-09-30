@@ -2,19 +2,18 @@
 {}
 ---
 
-I'm **Chris Turner**, a Software Engineer.
-
-I love all things computer science and maths.
-
-Have a look at some of my working [projects].
-
-For more check out my academic & professional [resume].
-
-Contact me at [@username] or by [email].
+Olá,
+Meu nome é **Naiara**, sou doutora em CP pela UFPR e estou realizando meu pós-doutorado em CP pela UPA.
 
 
+Veja os [projetos] que estou desenvolvendo no YouTube e Linkedin.
+Acesse meu [currículo] 
 
-[projects]: /projects
-[resume]: https://demo.nurlan.co/hugo-vitae/
+
+Me contate através das minhas redes sociais:
+
+
+[currículo]: http://lattes.cnpq.br/3451135311500060
+[projetos]: /blog
 [@username]: https://twitter.com/username
-[email]: mailto:email@example.com
+[email]: nayara_sandy@hotmail.com
