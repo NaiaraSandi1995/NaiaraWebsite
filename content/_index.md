@@ -13,6 +13,6 @@ Me contate pelas minhas redes sociais:
 
 
 
-[projetos]: projetos/
+[projetos]:/projetos
 [Currículo Lattes]: http://lattes.cnpq.br/3451135311500060
 [email]: nayara_sandy@hotmail.com

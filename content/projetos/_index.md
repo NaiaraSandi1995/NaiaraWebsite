@@ -7,5 +7,3 @@ tags:
 title: projetos
 ---
 
-[Canal do YouTube]: https://www.youtube.com/channel/UC0chGST6BDLY2Gbc0B7H3Sw
-
