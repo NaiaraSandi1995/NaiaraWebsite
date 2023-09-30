@@ -1,5 +1,4 @@
 baseURL: https://naiarasandi1995.github.io/NaiaraWebsite/
-publishDIR: docs
 languageCode: en-US
 title: Naiara Alcantara
 disqusShortname: ''
@@ -8,29 +7,31 @@ theme: hugo-sustain
 permalinks:
   post: /:year/:month/:day/:slug
 params:
-  author: Naiara Sandi de A. Alcantara
-  avatar: img/profile.png
+  author: Naiara Alcantara
+  avatar: img/profile.jpg
   custom_css: []
   custom_js: []
-  description: Describe
+  description: Describe your website
   social:
-    Email: nayara_sandy@hotmail.com
-    Github: https://github.com/NaiaraSandi1995
-    LinkedIn: https://www.linkedin.com/in/naiarasandi/
-    Lattes: http://lattes.cnpq.br/3451135311500060
-    Twitter: https://twitter.com/NaiaraSandi
-    Telefone: (+55) 91 98613-3335
+    Email: email@example.com
+    Github: username
+    LinkedIn: username
+    Medium: username
+    RSS: /blog/index.xml
+    Stackoverflow: username
+    Telegram: username
+    Twitter: username
 menu:
   main:
     - identifier: blog
       name: blog
       url: /blog/
       weight: 100
-    - identifier: projetos
-      name: projetos
-      url: /projetos/
+    - identifier: projects
+      name: projects
+      url: /projects/
       weight: 200
-    - identifier: Currículo
-      name: Currículo
-      url: http://lattes.cnpq.br/3451135311500060
-      weight: 300 
+    - identifier: resume
+      name: resume
+      url: /resume/
+      weight: 300

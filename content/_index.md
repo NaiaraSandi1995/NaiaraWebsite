@@ -2,17 +2,19 @@
 {}
 ---
 
-Meu nome é **Naiara Alcantara**, sou doutora em Ciência Política pela Universidade Federal do Paraná.
-Estou realizando meu estágio pós doutoral em Ciência Política pela Universidade Federal do Pará.
+I'm **Chris Turner**, a Software Engineer.
 
-Saiba mais sobre meus [projetos].
+I love all things computer science and maths.
 
-Veja meu [Currículo Lattes]. 
+Have a look at some of my working [projects].
 
-Me contate pelas minhas redes sociais:
+For more check out my academic & professional [resume].
+
+Contact me at [@username] or by [email].
 
 
 
-[projetos]:/projetos
-[Currículo Lattes]: http://lattes.cnpq.br/3451135311500060
-[email]: nayara_sandy@hotmail.com
+[projects]: /projects
+[resume]: https://demo.nurlan.co/hugo-vitae/
+[@username]: https://twitter.com/username
+[email]: mailto:email@example.com
