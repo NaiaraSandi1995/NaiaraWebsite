@@ -15,9 +15,9 @@ params:
   description: Describe your website
   social:
     Email: nayara_sandy@hotmail.com
-    Github: https://github.com/NaiaraSandi1995
-    LinkedIn: https://www.linkedin.com/in/naiarasandi/
-    Twitter: https://twitter.com/NaiaraSandi
+    Github: NaiaraSandi1995
+    LinkedIn: naiarasandi/
+    Twitter: NaiaraSandi
 menu:
   main:
     - identifier: blog
