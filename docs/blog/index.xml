@@ -6,25 +6,14 @@
     <description>Recent content in Blogs on Naiara Alcantara</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="https://naiarasandi1995.github.io/NaiaraWebsite/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://naiarasandi1995.github.io/NaiaraWebsite/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hello R Markdown</title>
-      <link>https://naiarasandi1995.github.io/NaiaraWebsite/blog/2020-12-01-r-rmarkdown/</link>
-      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
-      
-      <guid>https://naiarasandi1995.github.io/NaiaraWebsite/blog/2020-12-01-r-rmarkdown/</guid>
-      <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
-    </item>
-    
-    <item>
-      <title>Emoji Support</title>
+      <title>Curso de R básico</title>
       <link>https://naiarasandi1995.github.io/NaiaraWebsite/blog/emoji-support/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://naiarasandi1995.github.io/NaiaraWebsite/blog/emoji-support/</guid>
-      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Curso de R básico voltado para cientistas sociais e cientistas políticos.&lt;/p&gt;</description>
     </item>
     
   </channel>
