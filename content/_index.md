@@ -3,7 +3,7 @@
 ---
 
 Olá,
-Meu nome é **Naiara**, sou doutora em CP pela UFPR e estou realizando meu pós-doutorado em CP pela UPA.
+Meu nome é **Naiara**, sou doutora em CP pela UFPR e estou realizando meu pós-doutorado em CP pela UFPA.
 
 
 Veja os [projetos] que estou desenvolvendo no YouTube e Linkedin.

@@ -3,3 +3,5 @@ publishDIR: docs
 Site
 Olá, meu nome é Naiara, sou doutora em CP pela UFPR e estou realizando meu pós-doutorado em CP pela UPA.
 
+Veja 
+https://github.com/NaiaraSandi1995
