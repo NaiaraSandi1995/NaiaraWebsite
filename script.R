@@ -14,3 +14,4 @@ blogdown::build_site()
 # git add .
 # git commit -m "Update"
 # git push 
+blogdown::serve_site()
