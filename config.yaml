@@ -20,7 +20,7 @@ params:
     Twitter: NaiaraSandi
 menu:
   main:
-    - identifier: blog
-      name: blog
-      url: /blog/
-      weight: 100
+    - identifier: Menu
+      name: Menu
+      url: /Menu/
+      weight: 800
